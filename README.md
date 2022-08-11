@@ -1,18 +1,9 @@
-## Getting Started
+## 자바(Java) 알고리즘 문제풀이 : 코딩테스트 대비
+- [인프런강의](https://inf.run/GdXk)
+- [공부내용 블로그 포스팅](https://blog.naver.com/fwangjuwon/222845701505)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### 커리큘럼
+#### Section1. String(문자열)
+1. 문자 찾기
+2. 대소문자 변환
+3. 문장 속 단어(indexOf(), substring())
